@@ -1,0 +1,14 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell (NoProfile)",
+  "terminal.integrated.shellIntegration.enabled": true,
+  "terminal.integrated.profiles.windows": {
+    "Command Prompt": {
+      "path": "cmd.exe",
+      "args": ["/Q"]
+    },
+    "PowerShell (NoProfile)": {
+      "source": "PowerShell",
+      "args": ["-NoLogo", "-NoProfile"]
+    }
+  }
+}
