@@ -1,8 +1,23 @@
 # Apex Moto Corse — Precision Motorcycle Hardware
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashi-s1/apex-moto-store)
+[![Next.js 15](https://img.shields.io/badge/Next.js-15.2-black?style=flat&logo=next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?style=flat&logo=typescript)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com)
+
 High-performance motorcycle racing hardware and rider safety equipment e-commerce platform. Built with Next.js 15 (App Router), TypeScript, Tailwind CSS, PostgreSQL (Neon), and Drizzle ORM.
 
 Engineered with an industrial dark-mode moto aesthetic (`#09090b` carbon/gunmetal, `#f59e0b` safety amber accent), strict homologation compliance (ECE 22.06 / FIM), guaranteed CAD bolt-on fitment matrix, and complete mobile-first responsiveness.
+
+---
+
+## 🌐 Live Deployment
+
+Deploy directly to Vercel with one click or link your GitHub repository:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashi-s1/apex-moto-store)
+
+> **Live Preview:** Once deployed on Vercel, your live URL will be accessible globally at `https://apex-moto-store.vercel.app`.
 
 ---
 
