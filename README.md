@@ -11,13 +11,10 @@ Engineered with an industrial dark-mode moto aesthetic (`#09090b` carbon/gunmeta
 
 ---
 
-## 🌐 Live Deployment
+## 🌐 Live Website
 
-Deploy directly to Vercel with one click or link your GitHub repository:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashi-s1/apex-moto-store)
-
-> **Live Preview:** Once deployed on Vercel, your live URL will be accessible globally at `https://apex-moto-store.vercel.app`.
+- **GitHub Pages (Live Link):** [https://ashi-s1.github.io/apex-moto-store/](https://ashi-s1.github.io/apex-moto-store/)
+- **Vercel Deployment (1-Click):** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashi-s1/apex-moto-store)
 
 ---
 
